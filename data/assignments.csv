@@ -1,0 +1,11 @@
+_id,assignmentId,courseId,lessonId,title,description,dueDate,maxScore,createdAt,updatedAt
+684ee6b2c5d54cd1691b7ab5,A001,C005,L007,Assignment 1,Complete the task described in Assignment 1.,2025-06-25T15:28:50.918Z,77,2025-05-21T15:28:50.904Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7ab6,A002,C004,L012,Assignment 2,Complete the task described in Assignment 2.,2025-06-20T15:28:50.918Z,100,2025-05-28T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7ab7,A003,C006,L025,Assignment 3,Complete the task described in Assignment 3.,2025-06-26T15:28:50.918Z,80,2025-05-19T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7ab8,A004,C004,L005,Assignment 4,Complete the task described in Assignment 4.,2025-06-25T15:28:50.918Z,51,2025-06-03T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7ab9,A005,C002,L001,Assignment 5,Complete the task described in Assignment 5.,2025-06-23T15:28:50.918Z,76,2025-05-20T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7aba,A006,C003,L012,Assignment 6,Complete the task described in Assignment 6.,2025-06-20T15:28:50.918Z,50,2025-05-20T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7abb,A007,C003,L004,Assignment 7,Complete the task described in Assignment 7.,2025-06-23T15:28:50.918Z,59,2025-06-01T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7abc,A008,C006,L007,Assignment 8,Complete the task described in Assignment 8.,2025-06-23T15:28:50.918Z,61,2025-05-19T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7abd,A009,C002,L018,Assignment 9,Complete the task described in Assignment 9.,2025-06-20T15:28:50.918Z,86,2025-05-20T15:28:50.918Z,2025-06-15T15:28:50.918Z
+684ee6b2c5d54cd1691b7abe,A010,C001,L006,Assignment 10,Complete the task described in Assignment 10.,2025-06-20T15:28:50.918Z,96,2025-05-23T15:28:50.918Z,2025-06-15T15:28:50.918Z

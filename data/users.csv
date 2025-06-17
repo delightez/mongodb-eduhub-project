@@ -1,0 +1,125 @@
+sample_users = [
+    # --- Students ---
+    {
+        "userId": "U001", "email": "alice@example.com", "firstName": "Alice", "lastName": "Johnson",
+        "role": "student", "dateJoined": datetime(2024, 7, 12),
+        "profile": {"bio": "Aspiring data scientist.", "avatar": "https://example.com/avatar1.jpg", "skills": ["python", "data analysis"]},
+        "isActive": True
+    },
+    {
+        "userId": "U002", "email": "bob@example.com", "firstName": "Bob", "lastName": "Smith",
+        "role": "student", "dateJoined": datetime(2024, 8, 3),
+        "profile": {"bio": "Front-end enthusiast.", "avatar": "https://example.com/avatar2.jpg", "skills": ["html", "css", "javascript"]},
+        "isActive": True
+    },
+    {
+        "userId": "U003", "email": "carla@example.com", "firstName": "Carla", "lastName": "Lee",
+        "role": "student", "dateJoined": datetime(2024, 6, 25),
+        "profile": {"bio": "Learning backend systems.", "avatar": "https://example.com/avatar3.jpg", "skills": ["java", "spring boot"]},
+        "isActive": True
+    },
+    {
+        "userId": "U004", "email": "daniel@example.com", "firstName": "Daniel", "lastName": "Miller",
+        "role": "student", "dateJoined": datetime(2024, 9, 1),
+        "profile": {"bio": "Beginner in web dev.", "avatar": "https://example.com/avatar4.jpg", "skills": ["html", "css"]},
+        "isActive": True
+    },
+    {
+        "userId": "U005", "email": "emily@example.com", "firstName": "Emily", "lastName": "Wright",
+        "role": "student", "dateJoined": datetime(2024, 9, 10),
+        "profile": {"bio": "UI/UX learner.", "avatar": "https://example.com/avatar5.jpg", "skills": ["figma", "ux research"]},
+        "isActive": True
+    },
+    {
+        "userId": "U006", "email": "frank@example.com", "firstName": "Frank", "lastName": "Lopez",
+        "role": "student", "dateJoined": datetime(2024, 10, 2),
+        "profile": {"bio": "Fullstack dev in training.", "avatar": "https://example.com/avatar6.jpg", "skills": ["node.js", "react"]},
+        "isActive": False
+    },
+    {
+        "userId": "U007", "email": "grace@example.com", "firstName": "Grace", "lastName": "Patel",
+        "role": "student", "dateJoined": datetime(2024, 11, 5),
+        "profile": {"bio": "Cloud enthusiast.", "avatar": "https://example.com/avatar7.jpg", "skills": ["aws", "terraform"]},
+        "isActive": True
+    },
+    {
+        "userId": "U008", "email": "hank@example.com", "firstName": "Hank", "lastName": "Nguyen",
+        "role": "student", "dateJoined": datetime(2024, 11, 15),
+        "profile": {"bio": "Exploring DevOps.", "avatar": "https://example.com/avatar8.jpg", "skills": ["linux", "docker"]},
+        "isActive": True
+    },
+    {
+        "userId": "U009", "email": "irene@example.com", "firstName": "Irene", "lastName": "Choi",
+        "role": "student", "dateJoined": datetime(2024, 12, 1),
+        "profile": {"bio": "Love clean code.", "avatar": "https://example.com/avatar9.jpg", "skills": ["clean architecture", "oop"]},
+        "isActive": False
+    },
+    {
+        "userId": "U010", "email": "jason@example.com", "firstName": "Jason", "lastName": "Adams",
+        "role": "student", "dateJoined": datetime(2024, 12, 12),
+        "profile": {"bio": "Cybersecurity beginner.", "avatar": "https://example.com/avatar10.jpg", "skills": ["networking", "linux"]},
+        "isActive": True
+    },
+
+    # --- Instructors ---
+    {
+        "userId": "U011", "email": "karen@example.com", "firstName": "Karen", "lastName": "Zhang",
+        "role": "instructor", "dateJoined": datetime(2023, 6, 15),
+        "profile": {"bio": "JavaScript specialist.", "avatar": "https://example.com/avatar11.jpg", "skills": ["javascript", "vue", "node.js"]},
+        "isActive": True
+    },
+    {
+        "userId": "U012", "email": "leo@example.com", "firstName": "Leo", "lastName": "Martinez",
+        "role": "instructor", "dateJoined": datetime(2023, 7, 8),
+        "profile": {"bio": "Loves teaching beginners.", "avatar": "https://example.com/avatar12.jpg", "skills": ["html", "css", "bootstrap"]},
+        "isActive": True
+    },
+    {
+        "userId": "U013", "email": "mia@example.com", "firstName": "Mia", "lastName": "Singh",
+        "role": "instructor", "dateJoined": datetime(2023, 8, 3),
+        "profile": {"bio": "Specialist in data science.", "avatar": "https://example.com/avatar13.jpg", "skills": ["pandas", "numpy", "scikit-learn"]},
+        "isActive": True
+    },
+    {
+        "userId": "U014", "email": "nate@example.com", "firstName": "Nate", "lastName": "O'Connell",
+        "role": "instructor", "dateJoined": datetime(2023, 9, 18),
+        "profile": {"bio": "DevOps engineer.", "avatar": "https://example.com/avatar14.jpg", "skills": ["docker", "kubernetes", "ci/cd"]},
+        "isActive": True
+    },
+    {
+        "userId": "U015", "email": "olivia@example.com", "firstName": "Olivia", "lastName": "Williams",
+        "role": "instructor", "dateJoined": datetime(2023, 10, 22),
+        "profile": {"bio": "AI researcher and ML coach.", "avatar": "https://example.com/avatar15.jpg", "skills": ["tensorflow", "keras", "deep learning"]},
+        "isActive": True
+    },
+    {
+        "userId": "U016", "email": "paul@example.com", "firstName": "Paul", "lastName": "Adams",
+        "role": "instructor", "dateJoined": datetime(2023, 11, 5),
+        "profile": {"bio": "Cloud solutions architect.", "avatar": "https://example.com/avatar16.jpg", "skills": ["aws", "azure", "gcp"]},
+        "isActive": True
+    },
+    {
+        "userId": "U017", "email": "quinn@example.com", "firstName": "Quinn", "lastName": "Brooks",
+        "role": "instructor", "dateJoined": datetime(2023, 12, 10),
+        "profile": {"bio": "Security consultant and instructor.", "avatar": "https://example.com/avatar17.jpg", "skills": ["cybersecurity", "network security"]},
+        "isActive": True
+    },
+    {
+        "userId": "U018", "email": "rachel@example.com", "firstName": "Rachel", "lastName": "Kim",
+        "role": "instructor", "dateJoined": datetime(2024, 1, 9),
+        "profile": {"bio": "Blockchain developer.", "avatar": "https://example.com/avatar18.jpg", "skills": ["solidity", "ethereum", "smart contracts"]},
+        "isActive": False
+    },
+    {
+        "userId": "U019", "email": "steve@example.com", "firstName": "Steve", "lastName": "Green",
+        "role": "instructor", "dateJoined": datetime(2024, 2, 4),
+        "profile": {"bio": "Software architect and mentor.", "avatar": "https://example.com/avatar19.jpg", "skills": ["system design", "architecture"]},
+        "isActive": True
+    },
+    {
+        "userId": "U020", "email": "tina@example.com", "firstName": "Tina", "lastName": "Ford",
+        "role": "instructor", "dateJoined": datetime(2024, 3, 1),
+        "profile": {"bio": "Mobile app dev expert.", "avatar": "https://example.com/avatar20.jpg", "skills": ["flutter", "kotlin", "android"]},
+        "isActive": True
+    }
+]

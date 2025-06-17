@@ -1,0 +1,13 @@
+_id,submissionId,assignmentId,courseId,lessonId,studentId,content,score,feedback,submittedAt,gradedAt
+684ee6b3c5d54cd1691b7abf,S001,A001,C006,L015,U002,https://example.com/submissions/1,88,Well done.,2025-06-13T00:00:00.000Z,2025-06-15T15:28:57.232Z
+684ee6b3c5d54cd1691b7ac0,S002,A001,C006,L015,U004,https://example.com/submissions/2,60,Needs improvement.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac1,S003,A002,C006,L008,U003,https://example.com/submissions/3,85,Excellent work!,2025-06-12T00:00:00.000Z,2025-06-13T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac2,S004,A003,C008,L013,U001,https://example.com/submissions/4,90,Great submission.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac3,S005,A003,C008,L013,U004,https://example.com/submissions/5,65,Good effort.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac4,S006,A004,C001,L006,U002,https://example.com/submissions/6,80,Solid work.,2025-06-12T00:00:00.000Z,2025-06-13T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac5,S007,A005,C007,L017,U003,https://example.com/submissions/7,70,Well structured.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac6,S008,A006,C003,L018,U001,https://example.com/submissions/8,77,Good use of examples.,2025-06-12T00:00:00.000Z,2025-06-13T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac7,S009,A007,C002,L019,U004,https://example.com/submissions/9,92,Outstanding job.,2025-06-11T00:00:00.000Z,2025-06-12T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac8,S010,A008,C003,L007,U002,https://example.com/submissions/10,88,Impressive depth.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7ac9,S011,A009,C001,L020,U003,https://example.com/submissions/11,66,Meets expectations.,2025-06-13T00:00:00.000Z,2025-06-14T00:00:00.000Z
+684ee6b3c5d54cd1691b7aca,S012,A010,C003,L019,U004,https://example.com/submissions/12,94,Brilliant analysis.,2025-06-12T00:00:00.000Z,2025-06-13T00:00:00.000Z
